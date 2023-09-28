@@ -1,0 +1,23 @@
+{
+  "name": "experience",
+  "version": "1.0.0",
+  "description": "This repository contains an overview of all the tasks I have completed during my internships.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshgoyalevil/Experience.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshgoyalevil/Experience/issues"
+  },
+  "homepage": "https://github.com/anshgoyalevil/Experience#readme",
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "node-fetch": "^3.3.2"
+  }
+}
