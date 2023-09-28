@@ -19,8 +19,8 @@ jobs:
         run: node generate-experience.js
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "youremail@example.com"
+          git config --global user.name "Ansh Goyal"
+          git config --global user.email "anshgoyal1704@gmail.com"
           git add .
           git commit -m "Update README.md with PRs table"
           git push
