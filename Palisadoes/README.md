@@ -40,3 +40,7 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Feb 06, 2023 | Add test for directives/authDirective.ts | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1013) |
 | Feb 06, 2023 | Refactor files 61-70 in tests/resolvers/Mutation | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1014) |
 | Feb 06, 2023 | Fix type errors in the codebase | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1020) |
+| Feb 12, 2023 | Added constants for the error messages tests/libraries/errors | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1043) |
+| Feb 13, 2023 | Fix Post not Updating | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1060) |
+| Feb 15, 2023 | Integrated input validation in createPost updatePost createEvent updateEvent createOrganization resolvers | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1068) |
+| Feb 23, 2023 | Fix eslint to check for improper import statements | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1084) |
