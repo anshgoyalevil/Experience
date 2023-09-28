@@ -16,7 +16,7 @@ jobs:
       - name: Generate PRs Table
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-        run: node generate-table.js
+        run: node generate-experience.js
       - name: Commit and Push Changes
         run: |
           git config --global user.name "Your Name"
