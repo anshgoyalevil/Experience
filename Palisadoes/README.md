@@ -44,3 +44,8 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Feb 13, 2023 | Fix Post not Updating | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1060) |
 | Feb 15, 2023 | Integrated input validation in createPost updatePost createEvent updateEvent createOrganization resolvers | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1068) |
 | Feb 23, 2023 | Fix eslint to check for improper import statements | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1084) |
+| Mar 03, 2023 | Fix createPost mutation | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1107) |
+| Mar 06, 2023 | Update Installation.md for Mobile users | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1127) |
+| Mar 06, 2023 | TypeDefs changes for updateOrg feature to work | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1128) |
+| Mar 07, 2023 | Remove regex validations for i18n inputs to work | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1129) |
+| Mar 07, 2023 | Add dynamic base url support for images to work in production environments | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1134) |
