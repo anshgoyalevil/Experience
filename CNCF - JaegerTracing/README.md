@@ -35,24 +35,24 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Date | Pull Request Title | Link to PR |
 | --- | --- | --- |
 | Aug 1, 2023 | [deps] Remove @types/memoize-one dep | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1625) |
-| Aug 5, 2023 | [deps] Remove @types/moment, @types/history and @types/classnames | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1637) |
-| Aug 16, 2023 | [plexus] Remove unused deps and add missing deps | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1688) |
+| Aug 4, 2023 | [deps] Remove @types/moment, @types/history and @types/classnames | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1637) |
+| Aug 15, 2023 | [plexus] Remove unused deps and add missing deps | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1688) |
 | Aug 16, 2023 | Add depcheck for CI step to check for unused dependencies | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1677) |
 | Aug 15, 2023 | Remove unused type defs and packages | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1682) |
 | Aug 15, 2023 | Remove unused packages | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1675) |
 | Aug 14, 2023 | Remove unused redux-async-middleware package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1674) |
-| Aug 14, 2023 | Remove unused source-map-explorer package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1671) |
-| Aug 14, 2023 | Remove unused d3-scale package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1670) |
-| Aug 13, 2023 | Migrate ScoreCard.test.js from Enzyme to React Shallow Renderer | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1653) |
+| Aug 13, 2023 | Remove unused source-map-explorer package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1671) |
+| Aug 13, 2023 | Remove unused d3-scale package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1670) |
+| Aug 12, 2023 | Migrate ScoreCard.test.js from Enzyme to React Shallow Renderer | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1653) |
 | Aug 11, 2023 | Migrate App/Page.test.js from Enzyme to RTL | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1659) |
 | Jan 1, 1970 | Init Migration from Enzyme to React Testing Library | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1643) |
 | Jul 31, 2023 | Add Steps to Setup Jaeger-UI on WSL | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1612) |
-| Aug 17, 2023 | [tests] Migrate TraceIDSearchInput.test from Enzyme to RTL | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1691) |
+| Aug 16, 2023 | [tests] Migrate TraceIDSearchInput.test from Enzyme to RTL | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1691) |
 | Aug 17, 2023 | [test] Migrate DAG.test.js from Enzyme to RTL | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1694) |
 | Aug 20, 2023 | [test] Migrate NewWindowIcon.test.js from Enzyme to RTL | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1701) |
 | Aug 18, 2023 | [test] Migrate SpanBar.test.js from Enzyme to RTL | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1695) |
-| Aug 22, 2023 | [CI]: Add Concurrency Grouping to GitHub Workflows | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1710) |
-| Aug 22, 2023 | Bump jest from 28.1.3 to 29.6.2 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1708) |
+| Aug 21, 2023 | [CI]: Add Concurrency Grouping to GitHub Workflows | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1710) |
+| Aug 21, 2023 | Bump jest from 28.1.3 to 29.6.2 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1708) |
 | Aug 21, 2023 | Bump less from 3.13.1 to 4.2.0 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1704) |
 | Aug 22, 2023 | Bump sinon from 7.3.2 to 15.2.0 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1718) |
 | Aug 22, 2023 | Upgrade react-icons from 2.2.7 to 4.10.1 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1721) |
