@@ -1,0 +1,28 @@
+name: Generate PRs Table
+on:
+  workflow_dispatch:
+jobs:
+  generate-table:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+      - name: Install dependencies
+        run: npm install
+      - name: Generate PRs Table
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        run: node generate-table.js
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "youremail@example.com"
+          git add .
+          git commit -m "Update README.md with PRs table"
+          git push
+        env:
+          PAT: ${{ secrets.GH_PAT }}
