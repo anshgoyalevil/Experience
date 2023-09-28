@@ -1,6 +1,7 @@
 name: Generate PRs Table
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 jobs:
   generate-table:
     runs-on: ubuntu-latest
