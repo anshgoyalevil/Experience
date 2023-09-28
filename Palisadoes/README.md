@@ -49,3 +49,8 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Mar 06, 2023 | TypeDefs changes for updateOrg feature to work | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1128) |
 | Mar 07, 2023 | Remove regex validations for i18n inputs to work | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1129) |
 | Mar 07, 2023 | Add dynamic base url support for images to work in production environments | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1134) |
+| Mar 09, 2023 | Dynamic Generation of ACCESS_TOKEN_SECRET and REFRESH_TOKEN_SECRET in Workflow | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1150) |
+| Mar 12, 2023 | Add password update mutation | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1165) |
+| Mar 16, 2023 | SMTP Transporter Configuration for Mailer | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1177) |
+| Apr 09, 2023 | Move files from root folder to config folder | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1252) |
+| Apr 06, 2023 | Increase Code Coverage for updateUserType.ts | [Link to PR](https://github.com/PalisadoesFoundation/talawa-api/pull/1256) |
