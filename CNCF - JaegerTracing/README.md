@@ -6,30 +6,29 @@
 - GitHub Username: [anshgoyalevil](https://github.com/anshgoyalevil)
 
 ## About the project:
-The Talawa projects' software helps to create closer communities by assisting Community-Based Organizations, like ourselves, manage their membership activities. It is made specially for religious organizations, charities and other non-profits.
+Jaeger is an open-source tool that monitors and troubleshoots distributed systems based on microservices architecture. It was built by Uber and open-sourced in 2015.
 
-More information on the projects can be found on the [Talawa Website](https://docs.talawa.io/).
+More information on the projects can be found on the [JaegerTracing Website](https://www.jaegertracing.io/).
 
 ## Technologies used:
 
 - React.JS
 - TypeScript
 - Node.JS
-- Express.JS
-- MongoDB
-- Jest/Vitest
-- GraphQL
+- Jest
+- React Testing Library
+- Enzyme
+- Docker
+- Kubernetes
+- Golang
 - GitHub Actions
 - Git
-- Azure Pipelines
-- Azure App Services
-- Azure Cosmos DB
 
 ## Technical Contributions:
 
-### [Talawa API](https://github.com/PalisadoesFoundation/talawa-api)
+### [Jaeger-UI](https://github.com/jaegertracing/jaeger-ui)
 
-View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://github.com/PalisadoesFoundation/talawa-api/pulls?page=2&q=is%3Apr+author%3Aanshgoyalevil+is%3Aclosed)
+View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://github.com/jaegertracing/jaeger-ui/pulls?q=is%3Apr+author%3Aanshgoyalevil+is%3Aclosed)
 
 
 | Date | Pull Request Title | Link to PR |
