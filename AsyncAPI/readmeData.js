@@ -5,30 +5,26 @@ const asyncapiReadmeData = `
 - GitHub Username: [anshgoyalevil](https://github.com/anshgoyalevil)
 
 ## About the project:
-The Talawa projects' software helps to create closer communities by assisting Community-Based Organizations, like ourselves, manage their membership activities. It is made specially for religious organizations, charities and other non-profits.
+AsyncAPI is an Apache License 2.0 library under the Linux Foundation that seeks to improve the current state of event-driven architecture (EDA). The AsyncAPI Initiative is a specification and growing set of open-source tools to help developers define, build, and maintain asynchronous APIs and EDAs.
 
-More information on the projects can be found on the [Talawa Website](https://docs.talawa.io/).
+More information on the projects can be found on the [AsyncAPI Website](https://www.asyncapi.com/).
 
 ## Technologies used:
 
 - React.JS
-- TypeScript
 - Node.JS
-- Express.JS
-- MongoDB
-- Jest/Vitest
-- GraphQL
+- Cypress
 - GitHub Actions
 - Git
-- Azure Pipelines
-- Azure App Services
-- Azure Cosmos DB
+- Next.JS
+- TailwindCSS
+- Netlify
 
 ## Technical Contributions:
 
-### [Talawa API](https://github.com/PalisadoesFoundation/talawa-api)
+### [AsyncAPI Website](https://github.com/asyncapi/website)
 
-View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://github.com/PalisadoesFoundation/talawa-api/pulls?page=2&q=is%3Apr+author%3Aanshgoyalevil+is%3Aclosed)
+View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://github.com/asyncapi/website/pulls?q=is%3Apr+author%3Aanshgoyalevil+is%3Aclosed)
 `;
 
 module.exports = asyncapiReadmeData;
