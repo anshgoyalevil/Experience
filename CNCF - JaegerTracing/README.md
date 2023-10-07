@@ -73,3 +73,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Sep 27, 2023 | Upgrade react-router-dom to v5.2.0 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1830) |
 | Sep 30, 2023 | Add Custom withRouteProps HOC for react-router-dom v6 migration | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1836) |
 | Oct 1, 2023 | replace match.params with useParams hook | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1837) |
+| Oct 6, 2023 | [deps]: remove ant-design/compatibility package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1853) |
