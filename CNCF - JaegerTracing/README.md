@@ -78,3 +78,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Oct 9, 2023 | Replace deprecated visible prop of ant-design v3 with open prop of ant-design v4 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1855) |
 | Oct 9, 2023 | Replace deprecated usage of ant-design Tabs component from SearchTracePage | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1857) |
 | Oct 11, 2023 | Remove deprecated usages from antd DropDown, Tooltip, and Tab components | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1859) |
+| Oct 12, 2023 | Replace deprecated ant-design props from ReferenceButton and KeyValuesTable | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1864) |
