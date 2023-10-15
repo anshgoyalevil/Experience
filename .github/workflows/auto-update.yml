@@ -25,7 +25,7 @@ jobs:
           git config --global user.name "Ansh Goyal"
           git config --global user.email "anshgoyal1704@gmail.com"
           git add .
-          git commit -m "Update README.md with PRs table"
+          git commit -m "Update README.md with PRs table" --allow-empty
           git push
         env:
           PAT: ${{ secrets.GH_PAT }}
