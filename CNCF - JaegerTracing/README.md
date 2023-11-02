@@ -81,3 +81,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Oct 12, 2023 | Replace deprecated ant-design props from ReferenceButton and KeyValuesTable | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1864) |
 | Oct 21, 2023 | CI: Add the label-check workflow to verify changelog labels on each PR | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1897) |
 | Oct 24, 2023 | Upgrade ant-design to v5.x | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1907) |
+| Nov 1, 2023 | Upgrade @types/react to v18.x latest | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1927) |
