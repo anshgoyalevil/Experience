@@ -72,13 +72,14 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Sep 27, 2023 | Replace react-router-redux with redux-first-history | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1826) |
 | Sep 27, 2023 | Upgrade react-router-dom to v5.2.0 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1830) |
 | Sep 30, 2023 | Add Custom withRouteProps HOC for react-router-dom v6 migration | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1836) |
-| Oct 8, 2023 | Remove deprecated usages of ant-design v3 props from TopNav component | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1854) |
-| Oct 6, 2023 | [deps]: remove ant-design/compatibility package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1853) |
 | Oct 1, 2023 | replace match.params with useParams hook | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1837) |
-| Oct 9, 2023 | Replace deprecated visible prop of ant-design v3 with open prop of ant-design v4 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1855) |
-| Oct 9, 2023 | Replace deprecated usage of ant-design Tabs component from SearchTracePage | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1857) |
-| Oct 11, 2023 | Remove deprecated usages from antd DropDown, Tooltip, and Tab components | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1859) |
-| Oct 12, 2023 | Replace deprecated ant-design props from ReferenceButton and KeyValuesTable | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1864) |
 | Oct 21, 2023 | CI: Add the label-check workflow to verify changelog labels on each PR | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1897) |
 | Oct 24, 2023 | Upgrade ant-design to v5.x | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1907) |
 | Nov 1, 2023 | Upgrade @types/react to v18.x latest | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1927) |
+| Oct 6, 2023 | [deps]: remove ant-design/compatibility package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1853) |
+| Oct 8, 2023 | Remove deprecated usages of ant-design v3 props from TopNav component | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1854) |
+| Oct 9, 2023 | Replace deprecated usage of ant-design Tabs component from SearchTracePage | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1857) |
+| Oct 9, 2023 | Replace deprecated visible prop of ant-design v3 with open prop of ant-design v4 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1855) |
+| Oct 11, 2023 | Remove deprecated usages from antd DropDown, Tooltip, and Tab components | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1859) |
+| Oct 12, 2023 | Replace deprecated ant-design props from ReferenceButton and KeyValuesTable | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1864) |
+| Nov 2, 2023 | Bump eslint-plugin-jsx-a11y from 6.7.1 to 6.8.0 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1936) |
