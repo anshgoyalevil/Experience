@@ -84,3 +84,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Oct 12, 2023 | Replace deprecated ant-design props from ReferenceButton and KeyValuesTable | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1864) |
 | Nov 2, 2023 | Bump eslint-plugin-jsx-a11y from 6.7.1 to 6.8.0 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1936) |
 | Nov 10, 2023 | Remove yarn resolution for @types/react | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1968) |
+| Nov 11, 2023 | Setup router compatibility package for react-router-dom v6 upgrade | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1970) |
