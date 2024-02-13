@@ -45,3 +45,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Jan 26, 2024 | chore: add new CODEOWNERS | [Link to PR](https://github.com/asyncapi/website/pull/2596) |
 | Feb 11, 2024 | feat: enable i18n support for AsyncAPI website | [Link to PR](https://github.com/asyncapi/website/pull/2184) |
 | Jan 1, 1970 | feat: add i18nPaths for selective i18n routing | [Link to PR](https://github.com/asyncapi/website/pull/2131) |
+| Feb 12, 2024 | docs: add translations guide for AsyncAPI website | [Link to PR](https://github.com/asyncapi/website/pull/2130) |
