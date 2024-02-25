@@ -41,9 +41,9 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Jan 1, 1970 | feat: add eslint npm scripts and convert eslintrc.js to eslintrc.json | [Link to PR](https://github.com/asyncapi/website/pull/1647) |
 | Jan 1, 1970 | feat: add translation hooks and packages | [Link to PR](https://github.com/asyncapi/website/pull/1979) |
 | Aug 2, 2023 | feat: add translation hooks and packages | [Link to PR](https://github.com/asyncapi/website/pull/1980) |
-| Nov 6, 2023 | feat: add global eslint plugin | [Link to PR](https://github.com/asyncapi/website/pull/2288) |
-| Jan 26, 2024 | chore: add new CODEOWNERS | [Link to PR](https://github.com/asyncapi/website/pull/2596) |
+| Jan 1, 1970 | feat: migrate `lib/*` to `utils/*.ts` | [Link to PR](https://github.com/asyncapi/website/pull/2671) |
+| Feb 12, 2024 | docs: add translations guide for AsyncAPI website | [Link to PR](https://github.com/asyncapi/website/pull/2130) |
 | Feb 11, 2024 | feat: enable i18n support for AsyncAPI website | [Link to PR](https://github.com/asyncapi/website/pull/2184) |
 | Jan 1, 1970 | feat: add i18nPaths for selective i18n routing | [Link to PR](https://github.com/asyncapi/website/pull/2131) |
-| Feb 12, 2024 | docs: add translations guide for AsyncAPI website | [Link to PR](https://github.com/asyncapi/website/pull/2130) |
-| Jan 1, 1970 | feat: migrate `lib/*` to `utils/*.ts` | [Link to PR](https://github.com/asyncapi/website/pull/2671) |
+| Jan 26, 2024 | chore: add new CODEOWNERS | [Link to PR](https://github.com/asyncapi/website/pull/2596) |
+| Nov 6, 2023 | feat: add global eslint plugin | [Link to PR](https://github.com/asyncapi/website/pull/2288) |
