@@ -51,3 +51,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Mar 4, 2024 | feat: migrate `lib/*.js` to `utils/*.ts` | [Link to PR](https://github.com/asyncapi/website/pull/2688) |
 | Mar 14, 2024 | fix: fix type error of the migrate-ts branch | [Link to PR](https://github.com/asyncapi/website/pull/2776) |
 | Mar 16, 2024 | feat: migrate logos, slack and roadmap components to typescript | [Link to PR](https://github.com/asyncapi/website/pull/2763) |
+| Apr 4, 2024 | fix: update notify-triagers workflow to switch back to base repo's master branch | [Link to PR](https://github.com/asyncapi/website/pull/2839) |
