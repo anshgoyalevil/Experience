@@ -49,7 +49,7 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Nov 6, 2023 | feat: add global eslint plugin | [Link to PR](https://github.com/asyncapi/website/pull/2288) |
 | Mar 9, 2024 | feat: migrate newsroom components | [Link to PR](https://github.com/asyncapi/website/pull/2734) |
 | Mar 4, 2024 | feat: migrate `lib/*.js` to `utils/*.ts` | [Link to PR](https://github.com/asyncapi/website/pull/2688) |
-| Mar 14, 2024 | fix: fix type error of the migrate-ts branch | [Link to PR](https://github.com/asyncapi/website/pull/2776) |
-| Mar 16, 2024 | feat: migrate logos, slack and roadmap components to typescript | [Link to PR](https://github.com/asyncapi/website/pull/2763) |
-| Apr 4, 2024 | fix: update notify-triagers workflow to switch back to base repo's master branch | [Link to PR](https://github.com/asyncapi/website/pull/2839) |
 | Apr 18, 2024 | fix: revert "chore(deps): bump loader-utils and @mdx-js/loader" | [Link to PR](https://github.com/asyncapi/website/pull/2889) |
+| Apr 4, 2024 | fix: update notify-triagers workflow to switch back to base repo's master branch | [Link to PR](https://github.com/asyncapi/website/pull/2839) |
+| Mar 16, 2024 | feat: migrate logos, slack and roadmap components to typescript | [Link to PR](https://github.com/asyncapi/website/pull/2763) |
+| Mar 14, 2024 | fix: fix type error of the migrate-ts branch | [Link to PR](https://github.com/asyncapi/website/pull/2776) |
