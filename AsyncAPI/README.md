@@ -53,3 +53,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Apr 4, 2024 | fix: update notify-triagers workflow to switch back to base repo's master branch | [Link to PR](https://github.com/asyncapi/website/pull/2839) |
 | Mar 16, 2024 | feat: migrate logos, slack and roadmap components to typescript | [Link to PR](https://github.com/asyncapi/website/pull/2763) |
 | Mar 14, 2024 | fix: fix type error of the migrate-ts branch | [Link to PR](https://github.com/asyncapi/website/pull/2776) |
+| Sep 17, 2024 | fix: netlify-edge-functions-test for PRs and jest tests | [Link to PR](https://github.com/asyncapi/website/pull/3229) |
