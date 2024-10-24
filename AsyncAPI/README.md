@@ -54,4 +54,8 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Mar 16, 2024 | feat: migrate logos, slack and roadmap components to typescript | [Link to PR](https://github.com/asyncapi/website/pull/2763) |
 | Mar 14, 2024 | fix: fix type error of the migrate-ts branch | [Link to PR](https://github.com/asyncapi/website/pull/2776) |
 | Sep 17, 2024 | fix: netlify-edge-functions-test for PRs and jest tests | [Link to PR](https://github.com/asyncapi/website/pull/3229) |
+| Oct 23, 2024 | test: add markdown tests | [Link to PR](https://github.com/asyncapi/website/pull/3301) |
 | Oct 17, 2024 | fix: run tests on branch pushes | [Link to PR](https://github.com/asyncapi/website/pull/3296) |
+| Oct 23, 2024 | fix: restrict markdown tests to ubuntu runner | [Link to PR](https://github.com/asyncapi/website/pull/3318) |
+| Jan 1, 1970 | fix: restrict markdown tests to ubuntu runner | [Link to PR](https://github.com/asyncapi/website/pull/3317) |
+| Oct 23, 2024 | fix: fix testing workflow ref for branch pushes | [Link to PR](https://github.com/asyncapi/website/pull/3320) |
