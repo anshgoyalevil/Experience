@@ -42,7 +42,6 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Aug 14, 2023 | Remove unused redux-async-middleware package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1674) |
 | Aug 13, 2023 | Remove unused source-map-explorer package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1671) |
 | Aug 13, 2023 | Remove unused d3-scale package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1670) |
-| Aug 12, 2023 | Migrate ScoreCard.test.js from Enzyme to React Shallow Renderer | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1653) |
 | Aug 11, 2023 | Migrate App/Page.test.js from Enzyme to RTL | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1659) |
 | Jan 1, 1970 | Init Migration from Enzyme to React Testing Library | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1643) |
 | Jul 31, 2023 | Add Steps to Setup Jaeger-UI on WSL | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1612) |
@@ -86,3 +85,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Nov 2, 2023 | Bump eslint-plugin-jsx-a11y from 6.7.1 to 6.8.0 | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1936) |
 | Nov 11, 2023 | Setup router compatibility package for react-router-dom v6 upgrade | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1970) |
 | Dec 12, 2023 | Chore: Import only lodash submodules | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/2041) |
+| Aug 12, 2023 | Migrate ScoreCard.test.js from Enzyme to React Shallow Renderer | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1653) |
