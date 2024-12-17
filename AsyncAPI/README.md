@@ -59,3 +59,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Oct 23, 2024 | fix: restrict markdown tests to ubuntu runner | [Link to PR](https://github.com/asyncapi/website/pull/3318) |
 | Jan 1, 1970 | fix: restrict markdown tests to ubuntu runner | [Link to PR](https://github.com/asyncapi/website/pull/3317) |
 | Oct 23, 2024 | fix: fix testing workflow ref for branch pushes | [Link to PR](https://github.com/asyncapi/website/pull/3320) |
+| Jan 1, 1970 | fix: bump codecov from v4 to v5 | [Link to PR](https://github.com/asyncapi/website/pull/3470) |
