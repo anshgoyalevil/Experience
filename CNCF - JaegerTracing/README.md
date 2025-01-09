@@ -86,3 +86,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Nov 11, 2023 | Setup router compatibility package for react-router-dom v6 upgrade | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1970) |
 | Dec 12, 2023 | Chore: Import only lodash submodules | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/2041) |
 | Aug 12, 2023 | Migrate ScoreCard.test.js from Enzyme to React Shallow Renderer | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1653) |
+| Jan 8, 2025 | fix TraceDiff graph pan and zoom issue | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/2566) |
