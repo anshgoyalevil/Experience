@@ -61,3 +61,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Oct 23, 2024 | fix: fix testing workflow ref for branch pushes | [Link to PR](https://github.com/asyncapi/website/pull/3320) |
 | Jan 1, 1970 | fix: bump codecov from v4 to v5 | [Link to PR](https://github.com/asyncapi/website/pull/3470) |
 | Jan 19, 2025 | feat: add workflow and script to check edit links on docs | [Link to PR](https://github.com/asyncapi/website/pull/3557) |
+| Jan 1, 1970 | chore: upgrade lighthouse-ci to v12 | [Link to PR](https://github.com/asyncapi/website/pull/3635) |
