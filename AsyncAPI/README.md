@@ -63,3 +63,5 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Jan 19, 2025 | feat: add workflow and script to check edit links on docs | [Link to PR](https://github.com/asyncapi/website/pull/3557) |
 | Jan 1, 1970 | chore: upgrade lighthouse-ci to v12 | [Link to PR](https://github.com/asyncapi/website/pull/3635) |
 | Apr 24, 2025 | feat: add check-locales workflow | [Link to PR](https://github.com/asyncapi/website/pull/3950) |
+| Mar 22, 2026 | fix: update test ambassadors | [Link to PR](https://github.com/asyncapi/website/pull/5268) |
+| Mar 22, 2026 | chore: add markdown approver | [Link to PR](https://github.com/asyncapi/website/pull/5267) |
