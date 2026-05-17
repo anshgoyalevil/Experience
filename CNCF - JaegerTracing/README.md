@@ -36,8 +36,8 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Aug 1, 2023 | [deps] Remove @types/memoize-one dep | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1625) |
 | Aug 4, 2023 | [deps] Remove @types/moment, @types/history and @types/classnames | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1637) |
 | Aug 15, 2023 | [plexus] Remove unused deps and add missing deps | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1688) |
-| Aug 16, 2023 | Add depcheck for CI step to check for unused dependencies | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1677) |
 | Aug 15, 2023 | Remove unused type defs and packages | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1682) |
+| Aug 16, 2023 | Add depcheck for CI step to check for unused dependencies | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1677) |
 | Aug 15, 2023 | Remove unused packages | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1675) |
 | Aug 14, 2023 | Remove unused redux-async-middleware package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1674) |
 | Aug 13, 2023 | Remove unused source-map-explorer package | [Link to PR](https://github.com/jaegertracing/jaeger-ui/pull/1671) |
