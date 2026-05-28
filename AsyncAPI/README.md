@@ -65,3 +65,5 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Apr 24, 2025 | feat: add check-locales workflow | [Link to PR](https://github.com/asyncapi/website/pull/3950) |
 | Mar 22, 2026 | fix: update test ambassadors | [Link to PR](https://github.com/asyncapi/website/pull/5268) |
 | Mar 22, 2026 | chore: add markdown approver | [Link to PR](https://github.com/asyncapi/website/pull/5267) |
+| Jan 1, 1970 | fix(e2e): improve slack workspace test stability | [Link to PR](https://github.com/asyncapi/website/pull/5495) |
+| Jan 1, 1970 | fix(e2e): update test members data and stabilize tests | [Link to PR](https://github.com/asyncapi/website/pull/5496) |
