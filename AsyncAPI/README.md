@@ -67,3 +67,4 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | Mar 22, 2026 | chore: add markdown approver | [Link to PR](https://github.com/asyncapi/website/pull/5267) |
 | Jan 1, 1970 | fix(e2e): improve slack workspace test stability | [Link to PR](https://github.com/asyncapi/website/pull/5495) |
 | Jan 1, 1970 | fix(e2e): update test members data and stabilize tests | [Link to PR](https://github.com/asyncapi/website/pull/5496) |
+| May 28, 2026 | fix(e2e): make events page test resilient to empty states | [Link to PR](https://github.com/asyncapi/website/pull/5503) |
