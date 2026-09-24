@@ -70,3 +70,5 @@ View all pull requests by me at a glance : [VIEW ALL PULL REQUESTS](https://gith
 | May 28, 2026 | fix(e2e): make events page test resilient to empty states | [Link to PR](https://github.com/asyncapi/website/pull/5503) |
 | Jan 1, 1970 | feat: implement comprehensive React error boundary framework | [Link to PR](https://github.com/asyncapi/website/pull/5690) |
 | Aug 8, 2026 | feat: implement comprehensive React error boundary framework | [Link to PR](https://github.com/asyncapi/website/pull/5691) |
+| Sep 23, 2026 | fix: add canonical tags to docs pages and blog posts | [Link to PR](https://github.com/asyncapi/website/pull/5776) |
+| Sep 23, 2026 | feat: add breadcrumb navigation to docs pages | [Link to PR](https://github.com/asyncapi/website/pull/5777) |
